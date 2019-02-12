@@ -1,0 +1,4 @@
+[submodule "muralikrishnareddy/pos_stock_avail"]
+	path = muralikrishnareddy/pos_stock_avail
+	url = git@github.com:muralikrishnareddy/pos_stock_avail.git
+	branch = 10.0
